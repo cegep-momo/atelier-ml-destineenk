@@ -12,7 +12,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "pip3 install --user pandas matplotlib seaborn ipykernel joblib scikit-learn tensorflow keras-preprocessing",
+	"postCreateCommand": "pip3 install --user pandas matplotlib seaborn ipykernel joblib scikit-learn keras-preprocessing",
 
 	// Configure tool-specific properties.
 	// "customizations": {},
